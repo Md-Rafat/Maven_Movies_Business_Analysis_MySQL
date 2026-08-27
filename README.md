@@ -84,8 +84,7 @@ This project was completed following SQL training with Maven Analytics.
 - [GitHub](https://github.com/Md-Rafat)
 - [LinkedIn](https://www.linkedin.com/in/mdrafatm/)
 
-## Find:
-[View Maven Analytics Credential](https://certificates.mavenanalytics.io/b6eba67e-db6e-4597-a130-7ce6cbfaf26d#acc.qF8CPNnU)
+
 
 
 
