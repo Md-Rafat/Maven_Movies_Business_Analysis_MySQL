@@ -32,27 +32,27 @@ The analysis focuses on:
 - Business-oriented SQL querying
 
 ## Business Analysis:
-# 1. Store Managers & Locations 
+**1. Store Managers & Locations** 
 Identified store managers and their complete store locations by joining store, staff, address, city, and country data.
-# 2. Inventory Details
+**2. Inventory Details**
 Retrieved store-level inventory information including film titles, ratings, rental rates, and replacement costs.
-# 3. Inventory by Rating 
+**3. Inventory by Rating** 
 Analyzed the number of inventory items for each film rating across stores.
-# 4. Replacement Cost Analysis 
+**4. Replacement Cost Analysis** 
 Analyzed inventory by store and film category, including film counts, average replacement costs, and total replacement-cost exposure.
-# 5. Customer Analysis 
+**5. Customer Analysis** 
 Created a customer-level view containing store assignment, active status, and location information.
-# 6. Customer Lifetime Value 
+**6. Customer Lifetime Value**
 Calculated total rentals and payment amounts by customer to identify the company's highest-value customers.
-# 7. Advisors & Investors 
+**7. Advisors & Investors** 
 Combined advisor and investor information into a single dataset using UNION while distinguishing between stakeholder types. 
 
 ## Selected Analysis Results: 
-# 1. Inventory by Rating
+**1. Inventory by Rating**
 ![Inventory by Rating](screenshots/inventory_by_rating.png) 
-# 2. Replacement Cost Analysis 
+**2. Replacement Cost Analysis** 
 ![Replacement Cost Analysis](screenshots/replacement_cost_analysis.png) 
-# 3. Customer Lifetime Value 
+**3. Customer Lifetime Value** 
 ![Customer Lifetime Value](screenshots/customer_lifetime_value.png)
 
 ## Key Insights:
@@ -78,7 +78,7 @@ This project was completed following SQL training with Maven Analytics.
 - [GitHub](https://github.com/Md-Rafat)
 - [LinkedIn](https://www.linkedin.com/in/mdrafatm/)
 
-Find:
+## Find:
 [View Maven Analytics Credential](https://certificates.mavenanalytics.io/b6eba67e-db6e-4597-a130-7ce6cbfaf26d#acc.qF8CPNnU)
 
 
