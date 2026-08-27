@@ -34,16 +34,22 @@ The analysis focuses on:
 ## Business Analysis:
 **1. Store Managers & Locations** 
 Identified store managers and their complete store locations by joining store, staff, address, city, and country data.
+
 **2. Inventory Details**
 Retrieved store-level inventory information including film titles, ratings, rental rates, and replacement costs.
+
 **3. Inventory by Rating** 
 Analyzed the number of inventory items for each film rating across stores.
+
 **4. Replacement Cost Analysis** 
 Analyzed inventory by store and film category, including film counts, average replacement costs, and total replacement-cost exposure.
+
 **5. Customer Analysis** 
 Created a customer-level view containing store assignment, active status, and location information.
+
 **6. Customer Lifetime Value**
 Calculated total rentals and payment amounts by customer to identify the company's highest-value customers.
+
 **7. Advisors & Investors** 
 Combined advisor and investor information into a single dataset using UNION while distinguishing between stakeholder types. 
 
