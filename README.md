@@ -71,7 +71,7 @@ Store 2's Sports category has the highest total replacement cost at **$3,746.19*
 **Customer Lifetime Value:** 
 Karl Seal is the highest-value customer, generating **$221.55** in total payments across **45 rentals**.
 
-## 📁 Project Files 
+## Project Files 
 -  'maven_movies_analysis.sql' - Complete SQL analysis 
 - `screenshots/` — Selected query results
 
